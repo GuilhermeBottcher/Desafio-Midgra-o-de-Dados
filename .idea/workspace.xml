@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff76c0bc-0fa6-4224-abe8-13ee594fa793" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/migration-challenge-main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temporario.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Reserva/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Reserva/.vscode/settings.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Reserva/README.md" beforeDir="false" />
@@ -27,6 +20,9 @@
       <change beforePath="$PROJECT_DIR$/../Reserva/src/Palestra.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Reserva/src/Workshop.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Reserva/src/Workshop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrate.php" beforeDir="false" afterPath="$PROJECT_DIR$/migrate.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +33,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/migrate.php" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
@@ -104,7 +100,7 @@
       <workItem from="1733189019954" duration="6144000" />
       <workItem from="1733238764104" duration="4173000" />
       <workItem from="1733263745052" duration="1167000" />
-      <workItem from="1733265893467" duration="3921000" />
+      <workItem from="1733265893467" duration="5096000" />
     </task>
     <servers />
   </component>

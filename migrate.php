@@ -25,15 +25,15 @@ or die("Não foi possível conectar os servidor MySQL: 0temp\n");
 echo "Início da Migração: " . dateNow() . ".\n\n";
 
 
-// Caminho do arquivo CSV com os dados
+
 $csvFile = "C:/Users/Guilherme Bottcher/Desktop/migration-challenge-main/dados_sistema_legado/20210512_pacientes.csv";
 
-// Abre o arquivo CSV
+
 if (($handle = fopen($csvFile, "r")) !== false) {
     // Ignora o cabeçalho
     fgetcsv($handle, 1000, ";", '"');
 
-    // Processa cada linha do arquivo
+
     while (($data = fgetcsv($handle, 1000, ";", '"')) !== false) {
         // Prepara e executa a consulta SQL
         $sqlInsert = sprintf(
